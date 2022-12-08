@@ -1,0 +1,28 @@
+* {
+    margin: auto;
+    background-color: rgb(175, 214, 214);
+}
+
+h1, h2, h3 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+img {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: black;
+}
+
+ul, li, a, p {
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(25, 13, 115);
+    font-size: 20px;
+}
